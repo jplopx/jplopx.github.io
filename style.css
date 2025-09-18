@@ -9,7 +9,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: clamp(14px, 4vw, 18px);
-    background-color: #fba163;
+    background-color: #fc8128;
     color: #333;
     line-height: 1.6;
 }
@@ -341,4 +341,5 @@ body.dark-theme .rodape {
 
 body.dark-theme .rodape2 {
 	color: #0478a3;
+
 }
